@@ -3,6 +3,9 @@ Mentorship template for preparing for Google summer of Code challenge. Type = Le
 
 ## How to use this template?
 
+- Mentor should fork this template.
+- Mentee should join in as a contributor.
+
 This template is designed to assist Twoleaps mentorship program. The templates consist of two 
 major sections: Goals and Progress tracker. Mentors and mentee should add goals prior to start of 
 mentorship. Goals should be such that both party agree on. Progress tracker is to be updated on week
