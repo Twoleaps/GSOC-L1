@@ -1,5 +1,5 @@
 # GSOC-L1
-Mentorship template for preparing for Google summer of Code challenge. Type = Level 1
+Mentorship template for preparing for Google summer of Code challenge. Type = Level 1. Powered by [Twoleaps.com](www.twoleaps.com)
 
 ## How to use this template?
 
