@@ -19,7 +19,7 @@ Regular feedback is highly encouraged. Feedbacks should inspire improvement. Men
 
 ## Timeline
 
-<Add mentorship timeline here in weeks. Example: 8 weeks starting 10th August>
+5th December 2017
 
 ## Goals
 The objectives of the mentorship should be listed down here. They can be customized over time by the mentor
@@ -36,7 +36,7 @@ or the mentee's preferences.
 
 - [ ] Finding right project
     - [ ] Openhub
-    - [ ] Chosing a programming language
+    - [x] Chosing a programming language
     - [ ] Reading how to contribute
 
 - [ ] Learn about GSOC
@@ -67,6 +67,20 @@ or the mentee's preferences.
 Track weekly progress in this section according to above mentioned goals.
 
 - ### Week 1 
-    - [ ] Task 1
-    - [ ] Task 2
-    - [ ] Task 3
+    - [ ] Learn more about Git and Github
+    	- [ ] [Git tutorial](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+	    - [ ] [Git internals](https://www.youtube.com/watch?v=GFNPoHGeVDM)
+    	- [ ] [Complete practice on TryGit](https://try.github.io/levels/1/challenges/1)
+        - [ ] [Git advanced tutorials](https://www.youtube.com/watch?v=0SJCYPsef54)
+    - [ ] AUL: Always Use Linux. Specially when programming.
+        - [ ] Install Ubuntu or Fedora on your system
+    - [ ] IRC
+    	- [ ] Learn how IRC works (Just google search)
+	    - [ ] Sign up on IRC and explore some channels (Ex: #javadevs)
+    - [ ] Explore projects on Openhub and list down top 5 which you like.
+    - [ ] Setup Virtualbox on linux and install OS
+    - [ ] Do research in finding the right project
+        - [ ] Go throught list of organizations that participated GSOC in last 3 years.
+        - [ ] Use [OpenHub](https://www.openhub.net) to explore.
+        - [ ] Select 5 suitable organizations.
+        - [ ] Select 3 projects per organization.
