@@ -4,13 +4,10 @@
 	- https://github.com/mit-cml/appinventor-sources/wiki/Projects-GSoC-17#organization-folders
 	- https://github.com/mit-cml/appinventor-sources/wiki/Projects-GSoC-17#multiple-file-uploads
 	- https://github.com/mit-cml/appinventor-sources/wiki/Projects-GSoC-17#shortcuts-for-project-actions
-* Sustainable Computing Research Group ( SCoRe ) [legacy]
-	- Convert Androphsy to a Web Application
-	
 * JBoss Community [legacy]
-* Bazel [new]
+* Sigmah [new]
 * Open Data Kit [new]
-* TEAMMATES @ National University of Singapore
+* TEAMMATES @ National University of Singapore [legacy]
 	- https://docs.google.com/document/d/1fAvYvQr0E93OsZgyneaXGX0jaMA-zptTIxqLn83xwN0/pub?embedded=true#h.bn7syr1medcs
 
 ## New Git skills:
